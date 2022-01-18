@@ -17,6 +17,15 @@
   },
   "homepage": "https://github.com/19VISHAL98/hotel_backend#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^14.2.0",
+    "express": "^4.17.2",
+    "express-validator": "^6.14.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.3",
+    "nodemailer": "^6.7.2",
+    "nodemon": "^2.0.15",
+    "sequelize": "^6.13.0",
+    "sequelize-cli": "^6.4.1"
   }
 }
