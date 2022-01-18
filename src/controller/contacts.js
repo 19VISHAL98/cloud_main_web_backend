@@ -39,7 +39,7 @@ const show = async (req, res, next) =>{
     catch(err)
     {
         next(err);
-    }
+    };
 };
 
 module.exports = { insert, show};
